@@ -66,7 +66,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Gavel | 2020 | OSDI | [Paper](https://www.usenix.org/conference/osdi20/presentation/narayanan-deepak) | ♣♥ | ✔ | - | - | [Code](https://github.com/stanford-futuredata/gavel) |
 | HiveD | 2020 | OSDI | [Paper](https://www.usenix.org/conference/osdi20/presentation/zhao-hanyu) | ♣ | - | - | - | [Code](https://github.com/microsoft/hivedscheduler) |
 | Themis | 2020 | NSDI | [Paper](https://www.usenix.org/conference/nsdi20/presentation/mahajan) | ♥ | - | - | - | - |
-| Salus | 2020 | MLSys | [Paper](https://proceedings.mlsys.org/paper/2020/hash/f7177163c833dff4b38fc8d2872f1ec6-Abstract.html) | ♠♣ | - | - | - | [Code](https://github.com/SymbioticLab/Salus) |
+| Salus | 2020 | MLSys | [Paper](https://arxiv.org/abs/1902.04610) | ♠♣ | - | - | - | [Code](https://github.com/SymbioticLab/Salus) |
 | Vaibhav et al. | 2020 | MASCOTS | [Paper](https://ieeexplore.ieee.org/abstract/document/9285954) | ♠♣ | - | ✔ | - | - |
 | SPIN | 2020 | INFOCOM | [Paper](https://ieeexplore.ieee.org/document/9155445/) | ♣ | - | - | - | - |
 | E-LAS | 2020 | ICPP | [Paper](https://dl.acm.org/doi/fullHtml/10.1145/3404397.3404415) | ♣ | - | - | - | - |
